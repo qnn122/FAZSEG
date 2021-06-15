@@ -63,12 +63,7 @@ where
 ## FLask App
 Build and run docker on port 2001
 ```bash
-$ ./docker-build.sh
-```
-
-If getting error in permission
-```bash
-$ chmod u+x ./docker-build.sh
+bash ./docker-build.sh
 ```
 
 To test, the file structure should be like this:
